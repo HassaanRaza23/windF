@@ -8,5 +8,7 @@ public class class1 {
         System.out.println("how about printing another sentence?");
         System.out.println("editing now");
         System.out.println("another edit");
+        // add something new to my version 2
+        System.out.println("This is my new version");
     }
 }
