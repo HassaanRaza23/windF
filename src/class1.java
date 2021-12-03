@@ -3,5 +3,6 @@ public class class1 {
         System.out.println("say hello");
         System.out.println("updated");
         System.out.println("version updated");
+        System.out.println("how about printing another sentence?");
     }
 }
