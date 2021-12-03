@@ -7,5 +7,6 @@ public class class1 {
         System.out.println("version updated");
         System.out.println("how about printing another sentence?");
         System.out.println("editing now");
+        System.out.println("another edit");
     }
 }
