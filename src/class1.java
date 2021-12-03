@@ -8,5 +8,6 @@ public class class1 {
         System.out.println("how about printing another sentence?");
         System.out.println("editing now");
         System.out.println("another edit");
+        System.out.println("New branch edit");
     }
 }
